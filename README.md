@@ -1,4 +1,4 @@
-# CRUD com Deno + Dango
+# CRUD com Deno + MongoDB + OAK
 
 That aplication is a CRUD using [deno](https://deno.land/) (runtime javascript), [MongoDB](https://deno.land/x/mongo@v0.31.0) (Driver of MongoDB) and [oak](https://deno.land/x/oak@v10.6.0) (server lib)
 
